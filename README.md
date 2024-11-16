@@ -1,10 +1,10 @@
-👋 Hi, I am a Full-Stack-Developer and I specialize in JavaScript(MERN-Stack)
+👋 Hi there! I am a Full-Stack Developer with a strong focus on JavaScript, particularly within the MERN stack (MongoDB, Express.js, React, and Node.js). I enjoy creating efficient, scalable web applications and am passionate about both frontend and backend development. Let's build something together!
 
 <!-- ## 🔧 Technologies & Tools -->
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="Mongodb" alt="Mongodb" />&nbsp;
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js" alt="Express.js" />&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" />&nbsp;
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React Native" alt="React Native" />&nbsp;
+<!-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React Native" alt="React Native" />&nbsp; -->
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" alt="NodeJS" />&nbsp;
 
 <!-- ### :fire: My Stats : -->

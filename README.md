@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js" alt="Express.js" />&nbsp;
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" title="NestJS" alt="NestJS" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" />&nbsp;
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" alt="NodeJS" />&nbsp;
+<!--  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" alt="NodeJS" />&nbsp; -->
 <!-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React Native" alt="React Native" />&nbsp; -->
 
 

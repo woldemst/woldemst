@@ -1,5 +1,3 @@
-👋 Hi there! I am a Full-Stack Developer with a strong focus on JavaScript, particularly within the MERN and MEAN stack. I enjoy creating efficient, scalable web applications and am passionate about both frontend and backend development. Let's build something together!
-
 <!-- ## 🔧 Technologies & Tools -->
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="Mongodb" alt="Mongodb" />&nbsp;
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js" alt="Express.js" />&nbsp;

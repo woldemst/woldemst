@@ -19,8 +19,8 @@ Mobile app for digital inspection with PDF reporting and role-based access.
 **Tech:** React Native, Espress, Node.js, MongoDB
 
 ## 🧠 Tech Stack
-- Backend: Node.js, Express, NestJS
-- Frontend: React, React Native, Angular
+- Backend: Node.js, Express
+- Frontend: React, React Native
 - Database: PostgreSQL, MongoDB
 
 ## 🔗 Links

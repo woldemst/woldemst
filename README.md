@@ -6,7 +6,7 @@
 
 # Hi, I'm Waldemar 👋
 
-Backend-focused Fullstack Developer with experience in building APIs, mobile apps and data-driven systems.
+Backend-focused Developer specialized in Node.js and TypeScript with experience building APIs, trading systems and mobile applications
 
 ## 🚀 Featured Projects
 

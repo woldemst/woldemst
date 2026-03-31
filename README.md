@@ -16,7 +16,7 @@ Automated trading system with strategy execution, logging and analytics.
 
 ### 📱 Mobile Goods Inspection App (IHK Project)
 Mobile app for digital inspection with PDF reporting and role-based access.
-**Tech:** React Native, NestJS, PostgreSQL
+**Tech:** React Native, Espress, Node.js, MongoDB
 
 ## 🧠 Tech Stack
 - Backend: Node.js, Express, NestJS
@@ -24,4 +24,4 @@ Mobile app for digital inspection with PDF reporting and role-based access.
 - Database: PostgreSQL, MongoDB
 
 ## 🔗 Links
-- LinkedIn: (dein Link)
+- LinkedIn: www.linkedin.com/in/wweinert

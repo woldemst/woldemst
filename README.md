@@ -3,25 +3,77 @@
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js" alt="Express.js" />&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.js" alt="Node.js" />&nbsp;
-
 # Hi, I'm Waldemar 👋
 
-Backend-focused Developer specialized in Node.js and TypeScript with experience building APIs, trading systems and mobile applications
+I am a junior backend-focused fullstack developer finishing my apprenticeship as a **Fachinformatiker für Anwendungsentwicklung**.
+
+My main focus is building practical web and mobile applications with **JavaScript**, **TypeScript**, **Node.js**, **REST APIs**, databases and modern frontend/mobile technologies.
+
+I enjoy working on backend logic, API design, data handling and clear application structure. I am currently looking for a **Junior Backend / Fullstack Developer** role where I can grow in a professional development team and contribute to real software projects.
 
 ## 🚀 Featured Projects
 
-### 📊 Trading Platform
-Automated trading system with strategy execution, logging and analytics.
-**Tech:** Node.js, JavaScript, APIs
+### 📱 Mobile Goods Inspection App – IHK Final Project
 
-### 📱 Mobile Goods Inspection App (IHK Project)
-Mobile app for digital inspection with PDF reporting and role-based access.
-**Tech:** React Native, Espress, Node.js, MongoDB
+A mobile application for digital goods inspection, built as my final apprenticeship project.
+
+**Main features**
+- Digital inspection workflow
+- Structured data entry for goods inspections
+- Photo documentation
+- Role-based user access
+- PDF report generation
+- Mobile-first workflow for practical warehouse / inspection processes
+
+**Tech:** React Native, Expo, TypeScript, Node.js, Express.js, MongoDB
+
+Repository: [ap-projekt](https://github.com/wweinert/ap-projekt)
+
+---
+
+### 📊 Capital API Trading Bot
+
+A backend-oriented technical project focused on API integration, strategy logic, market data processing, structured logging and backtesting.
+
+**Main focus**
+- Broker/API integration
+- Modular strategy logic
+- Technical indicator calculation
+- Structured logging and analytics
+- Risk-management logic
+- Backtesting support
+
+**Tech:** Node.js, JavaScript, REST APIs, technical indicators
+
+Repository: [capital-api-bot](https://github.com/wweinert/capital-api-bot)
+
+> This is a technical portfolio project and not financial advice.
+
+---
+
+### 🛠️ ServicePlus Mobile App
+
+A mobile service-management application prototype with state management, image handling and external service integration.
+
+**Tech:** React Native, Expo, Redux Toolkit, Firebase, Axios
+
+Repository: [ServicePlus](https://github.com/wweinert/ServicePlus)
 
 ## 🧠 Tech Stack
-- Backend: Node.js, Express
-- Frontend: React, React Native
-- Database: PostgreSQL, MongoDB
+
+**Backend:** Node.js, Express.js, NestJS, REST APIs  
+**Frontend / Mobile:** Angular, React, React Native, Expo  
+**Databases:** PostgreSQL, MongoDB  
+**Languages:** JavaScript, TypeScript  
+**Tools:** Git, GitHub, Postman, Docker basics
+
+## 🎯 Current Focus
+
+- Finishing my IHK final examination
+- Improving backend development with Node.js, TypeScript and databases
+- Building clean and understandable portfolio projects
+- Preparing for a Junior Backend / Fullstack Developer role
 
 ## 🔗 Links
-- LinkedIn: www.linkedin.com/in/wweinert
+
+- LinkedIn: [linkedin.com/in/wweinert](https://www.linkedin.com/in/wweinert/)
